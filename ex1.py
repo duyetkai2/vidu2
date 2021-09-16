@@ -1,0 +1,2 @@
+hoten = "duyet"
+print(hoten)
